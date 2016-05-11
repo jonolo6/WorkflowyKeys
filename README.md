@@ -12,3 +12,4 @@ Ideas include
 - Dates.
   - autocomplete tod, tomorrow, etc.
   - popup calendar.
+- Hover legend showing how many due soon, etc by hashtag/context.
